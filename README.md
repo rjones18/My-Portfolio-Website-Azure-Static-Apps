@@ -20,7 +20,7 @@ The construction of the website broken down into the parts below:
 
 ### Back-End 
 
-N/A (Static Site)
+- N/A (Static Site)
 
 
 ### Database 
