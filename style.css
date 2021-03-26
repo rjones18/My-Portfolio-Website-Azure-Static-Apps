@@ -166,7 +166,7 @@ section .title::after{
 .home{
     display: flex;
     background: url("images/ATL.jpg") no-repeat center;
-    height: 115vh;
+    height: 118vh;
     color: #fff;
     min-height: 500px;
     background-size: cover;
