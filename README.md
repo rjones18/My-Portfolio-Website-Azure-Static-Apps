@@ -2,7 +2,7 @@
 
 In this project I created a portfolio website using HTML, CSS, and Javascript. 
 
-Link to my portfolio: https://rjones.netlify.app/
+Link to my portfolio: https://white-ocean-00652c20f.azurestaticapps.net/#projects
 
 
 ---
