@@ -29,5 +29,5 @@ The construction of the website broken down into the parts below:
 
 ### Deployment Platform
 
-- [Netlify](https://app.netlify.com/)
+- [Azure Static Web App](https://azure.microsoft.com/en-us/services/app-service/static/)
 
