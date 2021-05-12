@@ -1,6 +1,6 @@
 # My-Website
 
-In this project I created a portfolio website using HTML, CSS, and Javascript. This website's starter source code was from the Youtuber [CodingNepal](https://www.youtube.com/channel/UCk7xIEmd3MeyhIu2StLX5yA).
+In this project I created a portfolio website using HTML, CSS, and Javascript. 
 
 Link to my portfolio: https://rjones.netlify.app/
 
