@@ -20,6 +20,8 @@ The construction of the website broken down into the parts below:
 ### Deployment Platform
 
 - [AWS Amplify](https://main.dp9ujme825z5t.amplifyapp.com/)
-and
+
+&
+
 - [Azure Static Web App](https://azure.microsoft.com/en-us/services/app-service/static/)
 
