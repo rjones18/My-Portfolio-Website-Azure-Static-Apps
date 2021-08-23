@@ -679,3 +679,14 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+a:link {
+    color: #fff;
+    background-color: transparent;
+    text-decoration: none; 
+}
+
+a:visited { 
+    text-decoration: none; 
+    color: #fff; 
+   }
