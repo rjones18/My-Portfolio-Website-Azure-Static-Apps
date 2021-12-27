@@ -19,5 +19,5 @@ The construction of the website broken down into the parts below:
 
 ### Deployment Platform
 
-- [Azure Static Web App](https://azure.microsoft.com/en-us/services/app-service/static/)
+- [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/)
 
