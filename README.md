@@ -1,4 +1,4 @@
-# My-Website
+# My-Portfolio-Website-Azure-Static-Apps
 
 In this project I created a portfolio website using HTML, CSS, and Javascript. 
 
