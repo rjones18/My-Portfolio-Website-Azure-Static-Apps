@@ -18,6 +18,10 @@ The construction of the website broken down into the architecture below:
 - CSS
 - Javascript
 
+### CI/CD
+
+- [GitHub Actions](https://github.com/features/actions)
+
 ### Deployment Platform
 
 - [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/)
@@ -31,3 +35,5 @@ The construction of the website broken down into the architecture below:
 ### SSL Certificate
 
 - Provided by Azure Static Web Apps
+
+
