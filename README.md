@@ -5,8 +5,6 @@ In this project I created a portfolio website using HTML, CSS, and Javascript. T
 Link to my portfolio: https://reggiesportfolio.azure.vsystems.online/
 
 
----
-
 ## Website Breakdown
 
 The construction of the website broken down into the architecture below:
