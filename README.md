@@ -9,7 +9,7 @@ Link to my portfolio: https://reggiesportfolio.azure.vsystems.online/
 
 The construction of the website broken down into the architecture below:
 
-![azwebsitie](https://github.com/rjones18/Images/blob/main/azstaticsite.png)
+![azwebsitie](https://github.com/rjones18/Images/blob/main/Static%20Website%20Azure.drawio.png)
 
 
 ### Front-End
@@ -35,5 +35,9 @@ The construction of the website broken down into the architecture below:
 ### SSL Certificate
 
 - Provided by Azure Static Web Apps
+
+### IDE
+
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 
